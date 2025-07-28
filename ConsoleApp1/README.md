@@ -40,7 +40,7 @@ ConsoleApp1/
 ### 前置要求
 
 - .NET 9 SDK
-- Visual Studio 2022 或 Visual Studio Code
+- Visual Studio 2022 或 Visual Studio Code 或 JetBrains Rider
 - C# Dev Kit 扩展（VS Code用户）
 
 ### 运行项目
