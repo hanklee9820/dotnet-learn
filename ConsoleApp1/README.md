@@ -43,6 +43,11 @@ ConsoleApp1/
 - Visual Studio 2022 或 Visual Studio Code 或 JetBrains Rider
 - C# Dev Kit 扩展（VS Code用户）
 
+### 运行效果
+
+![iShot_2025-08-11_18.06.03](assets/iShot_2025-08-11_18.06.03.png)
+
+
 ### 运行项目
 
 1. 克隆或下载项目

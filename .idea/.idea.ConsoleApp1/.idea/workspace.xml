@@ -8,7 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87f10bfb-72a6-49ed-a6ec-7bd73e775362" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1b4d58039305476fac8d2a391a3edde5f83200/ca/7192976f/String.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1b4d58039305476fac8d2a391a3edde5f83200/e9/50d4a87b/EventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9a119f8a7ab94aeb9e82b8e10cd2b416b3200/6f/da95b4aa/Enumerable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ace6da12e7702a2cd08c491e498b2d6846474a4abfad332ec6da7cc6d54cd4d/DivideByZeroException.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -47,27 +49,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET static 方法.ConsoleApp1.Examples.CSharpUniqueFeatures.RunExamples.executor": "Run",
-    ".NET static 方法.ConsoleApp1.Examples.LinqAndFunctional.RunExamples.executor": "Run",
-    ".NET 项目.ConsoleApp1.executor": "Run",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "settings.editor.splitter.proportion": "0.20624408",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET static 方法.ConsoleApp1.Examples.CSharpUniqueFeatures.RunExamples.executor&quot;: &quot;Run&quot;,
+    &quot;.NET static 方法.ConsoleApp1.Examples.LinqAndFunctional.RunExamples.executor&quot;: &quot;Run&quot;,
+    &quot;.NET 项目.ConsoleApp1.executor&quot;: &quot;Run&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.20624408&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected=".NET static 方法.ConsoleApp1.Examples.LinqAndFunctional.RunExamples">
+}</component>
+  <component name="RunManager" selected=".NET 项目.ConsoleApp1">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -148,7 +150,8 @@
       <option name="presentableId" value="Default" />
       <updated>1753616757772</updated>
       <workItem from="1753616757772" duration="9149000" />
-      <workItem from="1753666019724" duration="428000" />
+      <workItem from="1753666019724" duration="1317000" />
+      <workItem from="1753789502734" duration="3699000" />
     </task>
     <task id="LOCAL-00001" summary="feat: delete .idea 目录">
       <option name="closed" value="true" />
@@ -158,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753666065118</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 更新 READE.md">
+      <option name="closed" value="true" />
+      <created>1753666484385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753666484385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +191,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat: delete .idea 目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: delete .idea 目录" />
+    <MESSAGE value="feat: 更新 READE.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 更新 READE.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
