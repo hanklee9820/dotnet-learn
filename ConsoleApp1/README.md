@@ -45,7 +45,7 @@ ConsoleApp1/
 
 ### 运行效果
 
-![iShot_2025-08-11_18.06.03](assets/iShot_2025-08-11_18.06.03.png)
+![](https://cdn.jsdelivr.net/gh/hanklee9820/OSS/PicGo/iShot_2025-08-11_18.06.03.png)
 
 
 ### 运行项目
